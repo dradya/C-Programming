@@ -1,3 +1,4 @@
+//program to display greatest of three numbers
 #include<stdio.h>
 main()
 {

@@ -1,3 +1,4 @@
+//program to display smallest of four numbers
 #include<stdio.h>
 main()
 {

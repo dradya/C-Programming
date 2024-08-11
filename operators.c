@@ -1,3 +1,4 @@
+//program to use various operatorn in c
 #include<stdio.h>
 void main()
 {
