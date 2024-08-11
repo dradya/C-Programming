@@ -1,6 +1,6 @@
 //program to display smallest of four numbers
 #include<stdio.h>
-main()
+void main()
 {
 int f,g,h,i;
 printf("enter four numbers=\n");

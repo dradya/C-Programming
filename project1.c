@@ -1,6 +1,6 @@
 //program to display greatest of three numbers
 #include<stdio.h>
-main()
+void main()
 {
 int c,d,e;
 printf("\n enter three numbers=");
