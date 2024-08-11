@@ -8,6 +8,6 @@ void main()
     while(i<=n)
     {
         printf("\n%d",i);
-        i++
+        i++;
     }
 }
