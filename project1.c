@@ -3,7 +3,7 @@
 void main()
 {
 int c,d,e;
-printf("\n enter three numbers=");
+printf("\n enter three numbers=\n");
 scanf("%d %d %d", &c, &d, &e);
 if(c>d)
 {
