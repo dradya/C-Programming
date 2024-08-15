@@ -6,3 +6,7 @@ project3.c - program to find if a number is positive or negative
 project4.c - program to implement calculation using switch
 project5.c - program to calculate square, cube, square root and X^x using switch
 project6.c - program to display 1st n natural numbers using while
+project7.c - 
+project8.c - program to find sum of first n natural numbers
+project9.c - 
+project10.c - program to find product of first n natural numbers
