@@ -10,3 +10,4 @@ project7.c -
 project8.c - program to find sum of first n natural numbers
 project9.c - 
 project10.c - program to find product of first n natural numbers
+project11.c - program to find sum of digits of a number               (not working)
