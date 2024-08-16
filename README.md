@@ -7,7 +7,7 @@ project4.c - program to implement calculation using switch
 project5.c - program to calculate square, cube, square root and X^x using switch
 project6.c - program to display 1st n natural numbers using while
 project7.c - 
-project8.c - program to find sum of first n natural numbers
-project9.c - program to display sum of squares of first n numbers
-project10.c - program to find product of first n natural numbers
-project11.c - program to find sum of digits of a number               (not working)
+project8.c - program to find sum of first n natural numbers using while
+project9.c - program to display sum of squares of first n numbers using while
+project10.c - program to find product of first n natural numbers using while
+project11.c - program to find sum of digits of a number and the reverse of the number using while

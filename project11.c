@@ -1,4 +1,4 @@
-//program to find sum of digits of a number using while
+//program to find sum of digits of a number and the reverse of the number using while
 #include<stdio.h>
 void main()
 {
