@@ -1,4 +1,4 @@
-//program to display 
+//program to display sum of squares of first n numbers using while
 #include<stdio.h>
 void main()
 {
@@ -7,10 +7,10 @@ void main()
     scanf("%d",&n);
     i=0;
     sum=0;
-    while(i<=n-1)
+    while(i<=n)
     {
-    sum=sum+i;
+    sum=sum+(i*i);
     i++;
-     printf("+%d",sum=i*i);
-    }
+    }  
+    printf("sum=%d",sum);
 }

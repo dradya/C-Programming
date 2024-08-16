@@ -1,4 +1,4 @@
-//program to find product of first n natural numbers
+//program to find product of first n natural numbers using while
 #include<stdio.h>
 void main()
 {

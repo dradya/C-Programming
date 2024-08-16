@@ -1,16 +1,17 @@
-//program to find sum of digits of a number
+//program to find sum of digits of a number using while
 #include<stdio.h>
 void main()
 {
-    int n,r,sum=0,num;
-    printf("\nEnter n");
+    int n,r,sum=0,rev=0;
+    printf("\nEnter n=");
     scanf("%d",&n);
-    num=n;
     while(n>0)
     {
-        r=num%10;
+        r=n%10;
+        rev=(rev*10)+r;
         sum=sum+r;
-        num=num/10;
+        n=n/10;
     }
-    printf("\nsum of digits of %d is %d",n,sum);
+    printf("\nsum=%d",sum);
+    printf("\nrev=%d",rev);
 }
