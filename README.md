@@ -11,3 +11,4 @@ project8.c - program to find sum of first n natural numbers using while
 project9.c - program to display sum of squares of first n numbers using while
 project10.c - program to find product of first n natural numbers using while
 project11.c - program to find sum of digits of a number and the reverse of the number using while
+project12.c - program to find factorial of a number using for loop
