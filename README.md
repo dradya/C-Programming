@@ -21,3 +21,4 @@ program18.c - Program to find the average of n numbers using arrays
 project19.c - Program to store temperature of two cities of a week and display it
 project20.c - program to find the sum of two matrices of order 2*2
 project21.c - Program to store and print 12 values entered by the user
+project22.c - 
