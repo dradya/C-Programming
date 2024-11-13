@@ -21,4 +21,17 @@ program18.c - Program to find the average of n numbers using arrays
 project19.c - Program to store temperature of two cities of a week and display it
 project20.c - program to find the sum of two matrices of order 2*2
 project21.c - Program to store and print 12 values entered by the user
-project22.c - 
+project22.c - Program to illustrate the strcat() function
+project23.c - program to demonstrate the strlen() function
+project24.c - program to demonstrate the strcmp() function
+project25.c - program to illustrate the strcpy() function
+project26.c - program to demonstrate use of structures in C
+project27.c - program to demonstrate use of structures in C
+project28.c - Pointer Program to swap two numbers without using the 3rd variable
+project29.c - Pointer program to take an integer variable with its initial value and change it with the new value
+project30.c - 
+project31.c - 
+project32.c - 
+project33.c - 
+project34.c - 
+project35.c - 
