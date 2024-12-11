@@ -30,7 +30,7 @@ project27.c - program to demonstrate use of structures in C
 project28.c - Pointer Program to swap two numbers without using the 3rd variable
 project29.c - Pointer program to take an integer variable with its initial value and change it with the new value
 project30.c - C Code to convert Decimal number into Binary
-project31.c - 
+project31.c - C Code to convert Binary into Decimal number
 project32.c - 
 project33.c - 
 project34.c - 
